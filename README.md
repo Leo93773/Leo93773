@@ -32,6 +32,7 @@ I'd prefer to work on my own when it comes to my personal projects because i'm t
 
 <b>Engines that I'm currently learning</b>
 <ul>
+  <li>More Python</li>
   <li>JavaScript</li>
   <li>Lua</li>
 </ul>

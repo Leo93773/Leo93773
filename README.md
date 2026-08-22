@@ -24,7 +24,7 @@ I'd prefer to work on my own when it comes to my personal projects because i'm t
 # My Programming Skills
 <b>Engines that I've Learned</b>
 <ul>
-  <li>[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Python</li>
+  <li>Python</li>
   <li>HTML</li>
   <li>CSS</li>
 </ul>

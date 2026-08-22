@@ -22,7 +22,7 @@ I am currently learning about Python, HTML & CSS through my computing college co
 I'd prefer to work on my own when it comes to my personal projects because i'm too shy to work with others and I always have a fear that i'm always messing something up.
 
 # My Programming Skills
-<b>Engines that I've Learned</b>
+<b>Engines that I've Learned & Still Learning</b>
 <ul>
   <li>Python</li>
   <li>HTML</li>
@@ -32,8 +32,6 @@ I'd prefer to work on my own when it comes to my personal projects because i'm t
 <b>Engines that I'm currently learning</b>
 <ul>
   <li>JavaScript</li>
-  <li>Python</li>
-  <li>HTML</li>
 </ul>
 
 # What have I worked on?

@@ -27,6 +27,7 @@ I'd prefer to work on my own when it comes to my personal projects because i'm t
   <li>Python</li>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Excel Functions</li>
 </ul>
 
 <b>Engines that I'm currently learning</b>

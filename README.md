@@ -24,7 +24,7 @@ I'd prefer to work on my own when it comes to my personal projects because i'm t
 # My Programming Skills
 <b>Engines that I've Learned & Still Learning</b>
 <ul>
-  <li>Python</li>
+  <li>Basic Python</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Excel Functions</li>
@@ -32,7 +32,7 @@ I'd prefer to work on my own when it comes to my personal projects because i'm t
 
 <b>Engines that I'm currently learning</b>
 <ul>
-  <li>More Python</li>
+  <li>Advanced Python</li>
   <li>JavaScript</li>
   <li>Lua</li>
 </ul>

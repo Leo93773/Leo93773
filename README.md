@@ -35,6 +35,7 @@ I'd prefer to work on my own when it comes to my personal projects because i'm t
   <li>Advanced Python</li>
   <li>JavaScript</li>
   <li>Lua</li>
+  <li>Java</li>
 </ul>
 
 # What have I worked on?

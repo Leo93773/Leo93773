@@ -20,25 +20,3 @@ I am currently learning about Java through my computing college course but I pla
 </ul>
 
 I'd prefer to work on my own when it comes to my personal projects because i'm too shy to work with others and I always have a fear that i'm always messing something up.
-
-# My Programming Skills
-<b>Engines that I've Learned & Still Learning</b>
-<ul>
-  <li>Basic Python</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Excel Functions</li>
-</ul>
-
-<b>Engines that I'm currently learning</b>
-<ul>
-  <li>Advanced Python</li>
-  <li>JavaScript</li>
-  <li>Lua</li>
-  <li>Java</li>
-</ul>
-
-# What have I worked on?
-<ul>
-  <li>Nothing Yet :(</li>
-</ul>

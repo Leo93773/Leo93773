@@ -20,3 +20,5 @@ I am currently learning about Java through my computing college course but I pla
 </ul>
 
 I'd prefer to work on my own when it comes to my personal projects because i'm too shy to work with others and I always have a fear that i'm always messing something up.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E6T525ASEP)
